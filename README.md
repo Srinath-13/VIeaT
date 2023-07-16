@@ -1,6 +1,7 @@
 
 # VIeaT
-<img src="https://github.com/Srinath-13/VIeaT/assets/79263421/362df1af-9b25-463c-ba0b-d14070989a23" width=150px>
+
+<p align="center"><img src="https://github.com/Srinath-13/VIeaT/assets/79263421/362df1af-9b25-463c-ba0b-d14070989a23" width=350px></p>
 
 VIeaT, which derives its inspiration from a standalone app for handling Food Ordering and Delivery process for VIT Chennai students, is an Online Food ordering and Delivery Portal. Therefore, this project is inspired from this idea and hopes to fulfil the requirements by 
 developing a website prototype capable of managing food order from the sides of the 
@@ -18,7 +19,7 @@ sort of errors viz., redundancy and data insertion, deletion and modification. T
 both the organization and the user in the better utilization of the resources
 
 ## ER Diagram
-<img src="https://github.com/Srinath-13/VIeaT/assets/79263421/4b52e311-c89c-4ae4-9866-9b8e1c538bb2)">
+<p align="center"><img src="https://github.com/Srinath-13/VIeaT/assets/79263421/4b52e311-c89c-4ae4-9866-9b8e1c538bb2)" width=500px></p>
 
 ## Walkthrough
 
